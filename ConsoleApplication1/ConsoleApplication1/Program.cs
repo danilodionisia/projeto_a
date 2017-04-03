@@ -12,7 +12,11 @@ namespace ConsoleApplication1
         {
             //teste
             Console.WriteLine("bfsb");
+            string var1 = Console.ReadLine();
+
+            Console.WriteLine(var1);
             Console.ReadLine();
+
         }
     }
 }
