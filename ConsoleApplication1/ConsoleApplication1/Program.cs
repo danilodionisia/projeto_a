@@ -10,7 +10,9 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            //teste
             Console.WriteLine("bfsb");
+            Console.ReadLine();
         }
     }
 }
